@@ -29,7 +29,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=4FC08D&center=true&vCenter=true&width=480&lines=Designing+with+code.+Coding+with+design.;Vue+%2F+Nuxt+%2F+TypeScript+%2F+SCSS;From+Allhow+%E2%86%92+I-Scream+%E2%86%92+Hecto+Healthcare;6%2B+years+of+building+for+the+web)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=4FC08D&center=true&vCenter=true&width=480&lines=Designing+with+code.+Coding+with+design.;Vue+%2F+Nuxt+%2F+TypeScript+%2F+SCSS;From+Allhow+%E2%86%92+I-Scream+%E2%86%92+Hecto+Healthcare;8%2B+years+of+building+for+the+web)](https://git.io/typing-svg)
 
 </div>
 
@@ -48,7 +48,7 @@ $ cat about.md
 
 ```
 현재    헥토헬스케어 · 프론트엔드 개발자 (선임연구원)
-경력    6년차 (2018 ~)
+경력    웹 8년차 (2018 ~) · Vue/Nuxt 실무 3년
 위치    Seoul, KR
 관심    디자인과 개발 사이의 접점
 ```
@@ -101,10 +101,24 @@ $ cat career.log
 ```
 
 ```
-[2023.12 ~ now ]  헥토헬스케어      Frontend Developer  (선임연구원)
-[2021.08 ~ 2023]  ㈜아이스크림미디어  Frontend Developer  (대리)
+[2023.09 ~ now ]  헥토헬스케어      Frontend Developer  (선임연구원)
+[2021.09 ~ 2023]  ㈜아이스크림미디어  Frontend Developer  (대리)
 [2018.11 ~ 2021]  올하우㈜           Web Designer · Publisher
 ```
+
+<br/>
+
+## Projects
+
+```bash
+$ ls ~/projects
+```
+
+| Repo | Stack | 설명 |
+|---|---|---|
+| **[portfolio](https://github.com/soyoungjo1/portfolio)** | Nuxt 3 · Vue 3 · TS | 포트폴리오 사이트 — SSR, Notion 연동 기술블로그, 이력 기반 About AI 챗봇(SSE) |
+| **[myWallet](https://github.com/soyoungjo1/myWallet)** | Vue 3 · Supabase · Claude API | 가계부 앱 — 지출 분류·분석에 Claude API 활용 |
+| **[aiHubTeam](https://github.com/soyoungjo1/aiHubTeam)** | Vue 3 · TS · Supabase | AI 팀 협업 툴 |
 
 <br/>
 
@@ -128,7 +142,7 @@ $ open links.sh
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-0d1117?style=for-the-badge)](https://jsy-final.vercel.app)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-0d1117?style=for-the-badge)](https://github.com/soyoungjo1/portfolio)
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/soyoungjo1)
 
 </div>
