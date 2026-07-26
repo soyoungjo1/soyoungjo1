@@ -47,7 +47,7 @@
 ### Projects
 
 - **[portfolio](https://github.com/soyoungjo1/portfolio)** — Nuxt 3 SSR 포트폴리오 · Notion 기술블로그 · About AI 챗봇(SSE)
-- **[myWallet](https://github.com/soyoungjo1/myWallet)** — Vue 3 · Supabase · Claude API 가계부
+- **[myWallet](https://github.com/soyoungjo1/myWallet-public)** — Vue 3 · Supabase · Claude API 가계부
 - **[aiHubTeam](https://github.com/soyoungjo1/aiHubTeam)** — Vue 3 AI 팀 협업 툴
 
 <br/>
